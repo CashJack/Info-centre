@@ -1,0 +1,2 @@
+# Info-centre
+kiosk design
